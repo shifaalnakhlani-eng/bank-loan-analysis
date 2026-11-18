@@ -18,5 +18,4 @@ The dashboards were generated with Python from `data/financial_loan.csv`, using 
 - `tableau_backgrounds/`: blank dashboard background images (JPG) and a Word preview
 - `data/`: `financial_loan.csv` and `financial_loan_data_excel.xlsx`
 
-## Credit
-Based on Data Tutorials course material: https://www.youtube.com/@datatutorials1
+
